@@ -13,10 +13,10 @@ Use this as the single source of truth for live checkout URLs.
 
 ## Public Storefront
 
-- Public store URL:
-- Terms URL:
-- Refund Policy URL:
-- Support email:
+- Public store URL: https://drpascalnguyen-art.github.io/ai-dentist-sop-store/
+- Terms URL: https://drpascalnguyen-art.github.io/ai-dentist-sop-store/terms.html
+- Refund Policy URL: https://drpascalnguyen-art.github.io/ai-dentist-sop-store/refund-policy.html
+- Support email: drpascalnguyen@gmail.com
 
 ## Gumroad
 
