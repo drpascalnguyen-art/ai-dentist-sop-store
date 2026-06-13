@@ -84,7 +84,7 @@ Paste live links here after verifying the product pages:
 - Clinical Admin Workflow SOP Bundle Gumroad URL:
 - Complete AI Dentist SOP Library Gumroad URL:
 - Gumroad profile/store URL: https://pascaline82.gumroad.com
-- Support email: drpascalnguyen@gmail.com
+- Support email: pascal@aidentalinstitute.com
 
 ## QA
 

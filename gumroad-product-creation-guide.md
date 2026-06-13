@@ -37,7 +37,7 @@ What's included:
 
 These are educational and business workflow resources for dental teams. They do not provide legal, financial, medical, clinical, regulatory, or HIPAA compliance advice. Purchasers are responsible for adapting any templates or SOPs to their own jurisdiction, practice policies, compliance requirements, and professional standards.
 
-Support: drpascalnguyen@gmail.com
+Support: pascal@aidentalinstitute.com
 ```
 
 **File:** `ai-dentist-sop-starter-pack-FULL.pdf`
@@ -62,7 +62,7 @@ What's included:
 
 These are educational and business workflow resources for dental teams. They do not provide legal, financial, medical, clinical, regulatory, or HIPAA compliance advice. Purchasers are responsible for adapting any templates to their own jurisdiction, practice policies, professional standards, and applicable advertising regulations.
 
-Support: drpascalnguyen@gmail.com
+Support: pascal@aidentalinstitute.com
 ```
 
 **File:** `ai-dental-marketing-prompt-pack-FULL.pdf`
@@ -87,7 +87,7 @@ What's included:
 
 These are educational and business workflow resources for dental teams. They do not provide legal, financial, medical, clinical, regulatory, or HIPAA compliance advice. Purchasers are responsible for adapting any templates or SOPs to their own jurisdiction, practice policies, compliance requirements, and professional standards.
 
-Support: drpascalnguyen@gmail.com
+Support: pascal@aidentalinstitute.com
 ```
 
 **File:** `clinical-admin-workflow-sop-bundle-FULL.pdf`
@@ -114,7 +114,7 @@ Delivered as a ZIP file containing all three PDFs.
 
 These are educational and business workflow resources for dental teams. They do not provide legal, financial, medical, clinical, regulatory, or HIPAA compliance advice. Purchasers are responsible for adapting any templates or SOPs to their own jurisdiction, practice policies, compliance requirements, and professional standards.
 
-Support: drpascalnguyen@gmail.com
+Support: pascal@aidentalinstitute.com
 ```
 
 **File:** `complete-ai-dentist-sop-library-FULL.zip`
