@@ -64,6 +64,17 @@ Use this language in every Gumroad product description:
 
 These digital products are educational and business workflow resources for dental teams. They do not provide legal, financial, medical, clinical, regulatory, or HIPAA compliance advice. Purchasers are responsible for adapting any templates or SOPs to their own jurisdiction, practice policies, compliance requirements, and professional standards.
 
+## Deliverable Files (ready to upload — 2026-06-13)
+
+| Product | File | Status |
+|---|---|---|
+| AI Dentist SOP Starter Pack ($49) | `sample-docs/ai-dentist-sop-starter-pack-FULL.pdf` | Ready |
+| AI Dental Marketing Prompt Pack ($79) | `sample-docs/ai-dental-marketing-prompt-pack-FULL.pdf` | Ready |
+| Clinical Admin Workflow SOP Bundle ($149) | `sample-docs/clinical-admin-workflow-sop-bundle-FULL.pdf` | Ready |
+| Complete AI Dentist SOP Library ($249) | `complete-ai-dentist-sop-library-FULL.zip` | Ready |
+
+See `gumroad-product-creation-guide.md` for copy-paste product titles, descriptions, and step-by-step Gumroad setup.
+
 ## Gumroad URLs
 
 Paste live links here after verifying the product pages:
@@ -72,8 +83,8 @@ Paste live links here after verifying the product pages:
 - Marketing Prompt Pack Gumroad URL:
 - Clinical Admin Workflow SOP Bundle Gumroad URL:
 - Complete AI Dentist SOP Library Gumroad URL:
-- Gumroad profile/store URL:
-- Support email:
+- Gumroad profile/store URL: https://pascaline82.gumroad.com
+- Support email: drpascalnguyen@gmail.com
 
 ## QA
 
