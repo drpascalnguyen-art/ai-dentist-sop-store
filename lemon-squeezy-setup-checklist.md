@@ -3,10 +3,18 @@
 ## Tracking
 
 - Obsidian summary: `obsidian-paperclip-staging/AI Dentist SOP Store - Lemon Squeezy Functional Setup.md`
+- Dual-commerce summary: `obsidian-paperclip-staging/AI Dentist SOP Store - Dual Commerce Functional Setup.md`
 - Obsidian execution queue: `obsidian-paperclip-staging/AI Dentist SOP Store - Paperclip Queue.md`
 - Paperclip parent: `PJN-793`
 - Paperclip children: `PJN-794` through `PJN-801`
 - Related launch gate: `PJN-763`
+- Commerce link source of truth: `lemon-squeezy-store/commerce-links.md`
+
+## Channel Strategy
+
+- Gumroad is the primary sales rail while Lemon Squeezy approval is pending.
+- Lemon Squeezy is the parallel sales rail after approval.
+- Product names, prices, files, support language, and refund language should match across both platforms.
 
 ## Product Setup
 
@@ -50,12 +58,14 @@
 ## Recommended Approval Email Attachments Or Links
 
 - `sample-docs/ai-dentist-sop-starter-pack-sample.md`
+- `sample-docs/ai-dentist-sop-starter-pack-sample.pdf`
 - `sample-docs/ai-dental-marketing-prompt-pack-sample.md`
+- `sample-docs/ai-dental-marketing-prompt-pack-sample.pdf`
 - `sample-docs/clinical-admin-workflow-sop-bundle-sample.md`
+- `sample-docs/clinical-admin-workflow-sop-bundle-sample.pdf`
 
 ## Optional Before Publishing
 
-- Export the sample docs to PDF if Lemon Squeezy prefers PDF attachments.
 - Add a real business logo if available.
 - Add the exact business legal name if it differs from PJN Dental.
 

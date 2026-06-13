@@ -204,6 +204,10 @@ h3 {
   border-color: var(--line);
 }
 
+.button.disabled.subtle {
+  background: #fff;
+}
+
 .button.secondary {
   color: #fff;
   border-color: rgba(255, 255, 255, 0.45);
@@ -219,6 +223,45 @@ h3 {
   border-radius: 8px;
   box-shadow: var(--shadow);
   line-height: 1.55;
+}
+
+.channel-strip {
+  width: min(1120px, calc(100% - 36px));
+  margin: 18px auto 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.channel-strip div {
+  padding: 16px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.channel-strip span,
+.channel-strip small {
+  display: block;
+}
+
+.channel-strip span {
+  color: var(--blue);
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.channel-strip strong {
+  display: block;
+  margin-top: 4px;
+  font-size: 18px;
+}
+
+.channel-strip small {
+  margin-top: 4px;
+  color: var(--muted);
+  line-height: 1.4;
 }
 
 .section,
@@ -279,6 +322,12 @@ h3 {
 
 .product-footer strong {
   font-size: 30px;
+}
+
+.channel-actions {
+  display: grid;
+  gap: 8px;
+  min-width: 164px;
 }
 
 .split {
@@ -343,6 +392,7 @@ h3 {
   }
 
   .product-grid,
+  .channel-strip,
   .split,
   .contact-band {
     grid-template-columns: 1fr;
@@ -355,5 +405,9 @@ h3 {
   .product-footer {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .channel-actions {
+    width: 100%;
   }
 }
